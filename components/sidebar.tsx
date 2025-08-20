@@ -41,7 +41,7 @@ export function Sidebar({ selectedChannel, onChannelSelect, activeView, onViewCh
     <>
       {/* Logo/Brand */}
       <div className="p-6 border-b border-sidebar-border">
-        <h1 className="text-xl font-bold text-sidebar-foreground">RepuManager</h1>
+        <h1 className="text-xl font-bold text-sidebar-foreground">ORM</h1>
         <p className="text-sm text-muted-foreground">Reputation Management</p>
       </div>
 

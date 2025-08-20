@@ -6,7 +6,7 @@ import { Toaster } from "@/components/ui/toaster"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "RepuManager - Online Reputation Management Platform",
+  title: "ORM - Online Reputation Management Platform",
   description:
     "Comprehensive reputation management platform for monitoring and managing online reviews across multiple channels",
   generator: "v0.app",
